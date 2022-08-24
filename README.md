@@ -1,0 +1,3 @@
+- MultipleJump
+- 간단한 더블점프 플러그인입니다! (점프 후 다이아몬드 우클릭 시 실행)
+- Listeners.Normal과 Listeners.Hold 이외 패키지는 무시하여주세요!

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MultipleJump:jar">
+    <output-path>$PROJECT_DIR$/../../Server/plugins</output-path>
+    <root id="archive" name="MultipleJump.jar">
+      <element id="module-output" name="MultipleJump" />
+    </root>
+  </artifact>
+</component>

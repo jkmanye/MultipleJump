@@ -1,0 +1,8 @@
+name: MultipleJump
+main: xyz.devmeko.MCPlugin.MultipleJump.Main
+version: 1.0.0-SNAPSHOT
+
+commands:
+    register:
+        description: Register Command.
+        usage: /register <Player>
